@@ -2,7 +2,7 @@
                                           FACULTAD DE INGENIERÍA EN CIENCIAS APLICADAS
                                                   CARRERA DE SOFTWARE                                                            
                                                                  
-Capturas de pantalla Agenda UTN.
+Capturas de pantalla Calculadora Basica UTN.
 
 Nombre: Carlos Ipiales 
 
